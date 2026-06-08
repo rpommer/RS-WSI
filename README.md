@@ -30,7 +30,7 @@ METER Group USA, Inc.
 #### Calculating the WSI
 This github repository aims to provide instruction on how to access and process data to generate the WSI. Python scripts and instructions on how to organize data and run scripts are presented here. Data availability is described below. 
 
-1) **Download scripts/set-up virtual environment**: To get started, download the scripts and yaml file from github and downloaded needed data from Hydroshare (LINK). Set-up a python environment using the yaml file (i.e., authors ran code using Anaconda and a python IDE that supported virtual environments).
+1) **Download scripts/set-up virtual environment**: To get started, download the scripts and yaml file from github and downloaded needed data from [Hydroshare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)). Set-up a python environment using the yaml file (i.e., authors ran code using Anaconda and a python IDE that supported virtual environments).
 
 2) **Download data**: Geospatial data is downloaded through the Google Earth Engine API or is avaiable through Hydroshare << LINK >> for specific files. To download GEE data, run the 0_gee_download.py script. Users will need to log-in to their Google Earth Engine account and obtain an authentication key which will need to be pasted into the python IDE prompt the first time the script is run. Data will download to Google Drive (text default folder: gem_valley_month_data). Download GEE data. 
 
@@ -101,10 +101,10 @@ project\_root/
 |Landsat 8|GEE|GEE API (see above)|
 |OpenET|GEE|GEE API (see above)|
 |gridMET|GEE|GEE API (see above)|
-|LiDAR/Solar Radiation|BSU / Processed with ArcPro|[LiDAR Data](https://isu.maps.arcgis.com/apps/instant/media/index.html?appid=796225ca9c9f4c07a1288225ed1afd30) / [Processed Solar Radiation Data (Hydrobase)]()|
-|Yield|Grower|[Hydrobase]()|
-|Matric Potential Timeseries|Grower|[Hydrobase]()|
-|Reference Raster(s)|GEE/processed with ArcPro or QGIS|[Hydrobase]()|
+|LiDAR/Solar Radiation|BSU / Processed with ArcPro|[LiDAR Data](https://isu.maps.arcgis.com/apps/instant/media/index.html?appid=796225ca9c9f4c07a1288225ed1afd30) / [Processed Solar Radiation Data (HydroShare)](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
+|Yield|Grower|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
+|Matric Potential Timeseries|Grower|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
+|Reference Raster(s)|GEE/processed with ArcPro or QGIS|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
 
 
 
