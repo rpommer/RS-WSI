@@ -13,7 +13,7 @@ Water Stress Index, Evapotranspiration, Solar Radiation, Irrigated Agriculture
 
 ## 
 #### Publications
-_In Progress_
+_In Review_
 
 
 ## 
@@ -102,8 +102,8 @@ project\_root/
 |OpenET|GEE|GEE API (see above)|
 |gridMET|GEE|GEE API (see above)|
 |LiDAR/Solar Radiation|BSU / Processed with ArcPro|[LiDAR Data](https://isu.maps.arcgis.com/apps/instant/media/index.html?appid=796225ca9c9f4c07a1288225ed1afd30) / [Processed Solar Radiation Data (HydroShare)](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
-|Yield|Grower|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
-|Matric Potential Timeseries|Grower|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
+|Yield|Grower|Contact Author|
+|Matric Potential Timeseries|Grower|Contact Author|
 |Reference Raster(s)|GEE/processed with ArcPro or QGIS|[HydroShare](https://www.hydroshare.org/resource/0b522780d7464009a882f94c19daecce/)|
 
 
