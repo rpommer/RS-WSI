@@ -13,18 +13,18 @@ Water Stress Index, Evapotranspiration, Solar Radiation, Irrigated Agriculture
 
 ## 
 #### Publications
-_In Review_
+Pommerenke, R., Smith, R. G., Niemann, J. D., Hansen, N. C., & Rivera, L. (2026). Exploring the heterogenous nature of irrigated winter wheat and potato fields using an experimental water stress index and vegetation indices. Agricultural Water Management, 337, 110864. https://doi.org/10.1016/j.agwat.2026.110864
 
 
 ## 
 #### Organizations
 Colorado State University <br>
 Brigham Young University <br>
-METER Group Inc., USA <br>
+METER Group, Inc. <br>
 
 ## 
 #### Funding
-METER Group USA, Inc. 
+METER Group, Inc. 
 
 ## 
 #### Calculating the WSI
